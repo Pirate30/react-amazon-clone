@@ -1,0 +1,24 @@
+.checkout {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #eaeded;
+  height: max-content;
+}
+.checkout_left {
+  flex: 0.65;
+  width: 100%;
+  background-color: white;
+  margin: 0 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.checkout_left_title {
+  font-size: 20px;
+  font-weight: 500;
+  padding-bottom: 5px;
+  border-bottom: 1px solid lightgray;
+}
+.checkout_right {
+  flex: 0.35;
+}

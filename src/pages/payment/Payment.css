@@ -1,0 +1,59 @@
+.payment {
+  background-color: white;
+}
+.payment_address {
+  display: flex;
+  padding: 20px;
+  background-color: lightgray;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  /* margin-bottom: 5px; */
+  /* border-bottom: 1px solid black; */
+}
+.payment_title {
+  /* padding: 20px 0; */
+  margin-left: 50px;
+}
+.payment_address_details {
+  margin-left: 80px;
+  margin-top: -10px;
+}
+.payment_address_details p {
+  border-bottom: 1px solid black;
+}
+.payment_review_items {
+  display: flex;
+  flex-direction: column;
+  /* flex: 0.5; */
+  width: 20%;
+}
+.payment_review {
+  display: flex;
+  margin-top: 20px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.payment_title {
+  /* flex: 0.2; */
+  margin-bottom: 10px;
+}
+.payment_method {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  background-color: lightgray;
+  padding: 30px;
+}
+.payment_btn {
+  width: 300px;
+  margin: 10px auto;
+}
+.payment_price {
+  text-align: center;
+}

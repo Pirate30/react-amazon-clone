@@ -1,0 +1,11 @@
+.subtotal {
+  background-color: white;
+  padding: 6px;
+  border-radius: 5px;
+  box-shadow: -1px 1px 8px -3px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 1px 8px -3px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 8px -3px rgba(0, 0, 0, 0.75);
+}
+button {
+  margin: 10px;
+}
